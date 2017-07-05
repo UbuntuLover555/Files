@@ -47,6 +47,9 @@ unzip macfonts.zip
 mkdir ~/.fonts
 cp *.* ~/.fonts
 wget http://www.mediafire.com/file/ylj1mnbdcrfjrpe/Indev.txt
+wget http://www.mediafire.com/file/xtgxbunjshwq9ey/macos_sierra_2-wallpaper-1600x900.jpg
+gsettings get org.gnome.desktop.background picture-uri
+'file:///~/.x/fonts/macos_sierra_2-wallpaper-1600x900.jpg'
 cp Indev.txt ~/Desktop
 cat Indev.txt
 #The Following Command Can Damage Your System It Is Not Recommended
