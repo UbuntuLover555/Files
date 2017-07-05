@@ -1,0 +1,8 @@
+To Finish Mac Custimisation Pack Installation Do The Following:-
+Open GNOME Tweak Tool
+Select Macbuntu-OS-Theme In Themes
+Select Macbuntu-OS-Icons In Icons
+Select Macbunut-OS-Cusrors In Cursors
+Select Mac Fonts In Fonts
+And Login To GNOME
+Done
